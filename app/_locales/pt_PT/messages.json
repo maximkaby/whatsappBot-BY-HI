@@ -1,0 +1,122 @@
+{
+   "create_event": {
+      "message": "Crie um evento no seu calendário"
+   },
+   "description": {
+      "message": "Ferramenta de gerenciamento do WhatsApp™ para que as empresas enviem a mensagem WhatsApp™ para seus clientes"
+   },
+   "filtertag": {
+      "message": "Filtro"
+   },
+   "intromsg": {
+      "message": "WhatsApp™ melhorou com o \u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a>"
+   },
+   "loggedtitle": {
+      "message": "Seu canal privado WhatsApp™"
+   },
+   "newchatphonelabel": {
+      "message": "Enviou uma mensagem para qualquer número"
+   },
+   "newchatphonelabelcolorfilter": {
+      "message": "Envie uma mensagem em massa para cada contato com este filtro"
+   },
+   "newchatphonelabelgroup": {
+      "message": "Envie uma mensagem em massa para cada contato neste grupo"
+   },
+   "notes_placeholder": {
+      "message": "Escreva um comentário:\n- Detalhes do contato\n- Oportunidades de vendas, etc."
+   },
+   "phoneinfo": {
+      "message": "Como funciona"
+   },
+   "phoneinfo_title1": {
+      "message": "1) Envie uma mensagem para qualquer número:"
+   },
+   "phoneinfo_title1_text1": {
+      "message": "O \u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a> permite que você envie uma mensagem de texto simples para qualquer número, mesmo que o número não esteja na sua lista de contatos."
+   },
+   "phoneinfo_title1_text2": {
+      "message": "É uma ótima função para qualquer empresa enviar uma mensagem rápida ao seu cliente."
+   },
+   "phoneinfo_title1_text3": {
+      "message": " - Exemplo para um restaurante: \"confirmamos sua reserva para amanhã\""
+   },
+   "phoneinfo_title1_text4": {
+      "message": " - Exemplo para um reparo de carro: \"Seu carro está pronto para ser apanhado\""
+   },
+   "phoneinfo_title1_text5": {
+      "message": " - Exemplo para um dentista: \"confirmamos seu compromisso para amanhã\""
+   },
+   "phoneinfo_title1_text6": {
+      "message": "Você pode até mesmo enviar mensagens para você e usar o Whatsapp como uma lista de tarefas ou um lembrete."
+   },
+   "phoneinfo_title1_text7": {
+      "message": "Depois de enviar uma primeira mensagem em texto simples, você pode continuar enviando mensagens usando todas as funcionalidades do WhatsApp, como imagem, link, etc."
+   },
+   "phoneinfo_title1_text8": {
+      "message": "CUIDADO: nunca envie uma mensagem para pessoas que não sabem quem você é, podem marcar sua mensagem como “spam”, e se acontecer várias vezes, o WhatsApp pode proibir sua conta. Máximo de 25 mensagens."
+   },
+   "phoneinfo_title2": {
+      "message": "2) Formato do número:"
+   },
+   "phoneinfo_title2_text1": {
+      "message": "Para enviar uma mensagem para qualquer número, escreva o número e adicione, na frente dele, o código do país."
+   },
+   "phoneinfo_title2_text2": {
+      "message": "Exemplo:"
+   },
+   "phoneinfo_title2_text3": {
+      "message": " - para os EUA, o código do país é +1> para enviar uma mensagem para o número EUA 666000000, então você deve escrever seu número como: +1666000000"
+   },
+   "phoneinfo_title2_text4": {
+      "message": " - para Espanha, o código do país é +34> para enviar uma mensagem para o número espanhol 666000000, então você deve escrever seu número como: +34666000000"
+   },
+   "phoneinfo_title2_text5": {
+      "message": " - para o Brasil, o código do país é +55> para enviar uma mensagem para o número brasileiro 666000000, então você deve escrever seu número como: +55666000000"
+   },
+   "phoneinfo_title3": {
+      "message": "3) Enviar uma mensagem para vários números:"
+   },
+   "phoneinfo_title3_text1": {
+      "message": "Para enviar uma mesma mensagem para número múltiplo, separe cada número com um coma (,)"
+   },
+   "phoneinfo_title3_text2": {
+      "message": "Exemplo para enviar uma mesma mensagem para os seguintes 3 números em espanhol 666000000 666000001 e 666000000, use o seguinte formato: + 34666000000, + 34666000001, + 34666000002"
+   },
+   "phonelabellimit": {
+      "message": "Você excedeu o limite de 25 destinatários. \u003Ca href='mailto:whatsdock@gmail.com'>Entre em contato\u003C/a> para enviar mais mensagens por vez."
+   },
+   "placeholder": {
+      "message": "Escreva qualquer coisa para si mesmo"
+   },
+   "reviewtitle": {
+      "message": "Por favor reveja WhatsDock"
+   },
+   "share_email": {
+      "message": "\u003Ca href='mailto:?Subject=WhatsDock%3A%20uma%20super%20ferramenta%20para%20o%20WhatsApp&body=Oi%2C%0D%0AEu%20uso%20o%20http://www.whatsdock.com%2C%20uma%20%C3%B3tima%20ferramenta%20gratuita%20para%20usar%20o%20WhatsApp%20em%20seu%20computador.%0D%0ATente%20agora%2C' target='_blank'>Enviar por email\u003C/a>"
+   },
+   "share_facebook": {
+      "message": "\u003Ca href='https://www.facebook.com/dialog/feed?app_id=2415035612055476&link=https://www.whatsdock.com' target='_blank'>Compartilhar no Facebook\u003C/a>"
+   },
+   "share_twitter": {
+      "message": "\u003Ca href='https://twitter.com/intent/tweet?text=Eu%20uso%20%23WhatsDock%2C%20uma%20%C3%B3tima%20ferramenta%20gratuita%20para%20usar%20o%20WhatsApp%20em%20seu%20computador.%20%0D%0ATente%20agora%2C%20https://www.whatsdock.com' target='_blank'>Compartilhar no Twitter\u003C/a>"
+   },
+   "sharetitle": {
+      "message": "Precisamos de sua assistência"
+   },
+   "sharetitlemsg": {
+      "message": "Você gosta do WhatsDock?\u003Cbr/>\u003Cbr/>Obrigado por compartilhar a ferramenta com seus amigos."
+   },
+   "suggestions": {
+      "message": "Precisamos de suas idéias para melhorar o WhatsDock, envie suas sugestões para \u003Ca href='mailto:whatsdock@gmail.com'>whatsdock@gmail.com\u003C/a>"
+   },
+   "title": {
+      "message": "WhatsDock > WhatsApp para o seu negócio"
+   },
+   "unlogtitle": {
+      "message": "Entre no WhatsApp™"
+   },
+   "welcome_dock": {
+      "message": "Pressione para abrir um Dock"
+   }
+}

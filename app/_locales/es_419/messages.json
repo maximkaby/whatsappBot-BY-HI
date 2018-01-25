@@ -1,0 +1,128 @@
+{
+   "create_event": {
+      "message": "Crear un evento en tu calendario"
+   },
+   "description": {
+      "message": "Herramienta de gestión de WhatsApp™ para empresas para enviar mensaje WhatsApp™ a tus clientes"
+   },
+   "filtertag": {
+      "message": "Filtro"
+   },
+   "intromsg": {
+      "message": "Versión de WhatsApp™ mejorada  \u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a>"
+   },
+   "loggedtitle": {
+      "message": "Tu espacio WhatsApp™ privado y encriptado"
+   },
+   "newchatphonelabel": {
+      "message": "Enviar un mensaje a cualquier número"
+   },
+   "newchatphonelabelcolorfilter": {
+      "message": "Enviar un mensaje masivo a todos los contactos con este filtro"
+   },
+   "newchatphonelabelgroup": {
+      "message": "Enviar un mensaje masivo a todos los miembros del grupo"
+   },
+   "notes_placeholder": {
+      "message": "Escribir un comentario:\n- datos de contacto\n- oportunidades de ventas, etc."
+   },
+   "phoneinfo": {
+      "message": "¿Cómo funciona?"
+   },
+   "phoneinfo_title1": {
+      "message": "1) Enviar un mensaje a cualquier número:"
+   },
+   "phoneinfo_title1_text1": {
+      "message": "\u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a> le permite enviar un mensaje WhatsApp a cualquier número de telefono que tiene WhatsApp, incluso si el número no está en su lista de contactos."
+   },
+   "phoneinfo_title1_text2": {
+      "message": "Es una funcionalidad muy util para cualquier empresa que quiera comunicarse con sus clientes:"
+   },
+   "phoneinfo_title1_text3": {
+      "message": " - Ejemplo para un restaurante: \"confirmamos su reserva para mañana\""
+   },
+   "phoneinfo_title1_text4": {
+      "message": " - Ejemplo para una Taller de coches: \"Su coche está listo para ser recogido\""
+   },
+   "phoneinfo_title1_text5": {
+      "message": " - Ejemplo para un dentista: \"confirmamos su cita para manana\""
+   },
+   "phoneinfo_title1_text6": {
+      "message": "Incluso puedes enviar mensajes a ti mismo y usar whatsapp como una lista de tareas o un recordatorio."
+   },
+   "phoneinfo_title1_text7": {
+      "message": "Después de enviar un primer mensaje en texto sin formato, puede continuar enviando mensajes usando todas las funcionalidades de WhatsApp, como imagen, links, etc."
+   },
+   "phoneinfo_title1_text8": {
+      "message": "PRECAUCIÓN: nunca envíe un mensaje a personas que no conoce de nada, podrían marcar su mensaje como “spam” y, si ocurre varias veces, WhatsApp podría cancelar su cuenta. Máximo 25 mensajes."
+   },
+   "phoneinfo_title2": {
+      "message": "2) Como formatear los números:"
+   },
+   "phoneinfo_title2_text1": {
+      "message": "Para enviar un mensaje a cualquier número, escriba el número y añada, delante de él, el código del país con un \"+\"."
+   },
+   "phoneinfo_title2_text2": {
+      "message": "Ejemplo:"
+   },
+   "phoneinfo_title2_text3": {
+      "message": " - para los EEUU el código de país es +1 > para enviar un mensaje al número de los EEUU 666000000 debe escribir el número como: +1666000000"
+   },
+   "phoneinfo_title2_text4": {
+      "message": " - para España el código del país es +34 > para enviar un mensaje al número español 666000000 escribir el número como: +34666000000"
+   },
+   "phoneinfo_title2_text5": {
+      "message": " - para Brasil el código del país es +55 > para enviar un mensaje al número brasileño 666000000  debe escribir el número como: +55666000000"
+   },
+   "phoneinfo_title3": {
+      "message": "3) Enviar un mensaje a varios números:"
+   },
+   "phoneinfo_title3_text1": {
+      "message": "Para enviar un mismo mensaje a varios números, separe cada número con una coma (,)"
+   },
+   "phoneinfo_title3_text2": {
+      "message": "Ejemplo para enviar un mismo mensaje a los siguientes 3 números españoles 666000000 666000001 y 666000000, utilice el siguiente formato: +34666000000,+34666000001,+34666000002"
+   },
+   "phonelabellimit": {
+      "message": "Has superado el límite de 25 destinatarios. \u003Ca href='mailto:whatsdock@gmail.com'>Contáctenos\u003C/a> para enviar más mensajes a la vez."
+   },
+   "placeholder": {
+      "message": "Escríbete lo que quieres"
+   },
+   "reviewtitle": {
+      "message": "Por favor valora WhatsDock"
+   },
+   "share_email": {
+      "message": "\u003Ca href='mailto:?Subject=WhatsDock%3A%20una%20super%20herramienta%20para%20WhatsApp&body=Hola%2C%0D%0AUso%20https%3A%2F%2Fwww.whatsdock.com%2C%20una%20incre%C3%ADble%20herramienta%20gratuita%20para%20usar%20WhatsApp%20en%20tu%20computadora.%0D%0APru%C3%A9balo%20ahora%2C' target='_blank'>Manda un email\u003C/a>"
+   },
+   "share_facebook": {
+      "message": "\u003Ca href='https://www.facebook.com/dialog/feed?app_id=2415035612055476&link=https://www.whatsdock.com' target='_blank'>Comparte en Facebook\u003C/a>"
+   },
+   "share_twitter": {
+      "message": "\u003Ca href='https://twitter.com/intent/tweet?text=Uso%20%23WhatsDock%2C%20una%20incre%C3%ADble%20herramienta%20gratuita%20para%20usar%20WhatsApp%20en%20tu%20computadora.%20%0D%0APrueba%20https%3A%2F%2Fwww.whatsdock.com%20ahora%21' target='_blank'>Comparte en Twitter\u003C/a>"
+   },
+   "sharetitle": {
+      "message": "Necesitamos su apoyo"
+   },
+   "sharetitlemsg": {
+      "message": "¿Te gusta WhatsDock?\u003Cbr/>\u003Cbr/>Gracias por compartir la herramienta con tus amigos."
+   },
+   "suggestions": {
+      "message": "Necesitamos sus ideas para mejorar WhatsDock, envíe sus sugerencias a \u003Ca href='mailto:whatsdock@gmail.com'>whatsdock@gmail.com\u003C/a>"
+   },
+   "templatesplaceholder": {
+      "message": "+ crear nueva plantilla"
+   },
+   "templatestitle": {
+      "message": "Sus plantillas:"
+   },
+   "title": {
+      "message": "WhatsDock > WhatsApp para tu negocio"
+   },
+   "unlogtitle": {
+      "message": "Iniciar sesión en WhatsApp™"
+   },
+   "welcome_dock": {
+      "message": "Pulsa para abrir un Dock"
+   }
+}

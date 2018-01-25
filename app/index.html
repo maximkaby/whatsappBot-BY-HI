@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<link rel="stylesheet" href="css/bulma.css">
+	<link rel="stylesheet" href="bundle.min.css">
+
+	<title>WhatsApp Bot</title>
+</head>
+<body>
+<div class="wrapper" id="wrapper">
+	<div class="wrapper__hide">
+		<div id="hide-el">
+			<img src="chrome-extension://ieiahgfdghnojlimnmllmaemoekljpjo/app/icon/minimize.png" alt="">
+		</div>
+	</div>
+	<div class="content">
+		<div class="content__app-name">
+			WhatsApp Bot
+		</div>
+		<form class="content__form">
+			<div class="form__app-settings">
+				<div class="app-settings__input-file">
+					<div class="field">
+						<div class="file is-primary">
+							<label class="file-label">
+								<input id="input-file" class="file-input" type="file" name="resume">
+								<span class="file-cta">
+                                            <span class="file-icon">
+                                                <img src="chrome-extension://ieiahgfdghnojlimnmllmaemoekljpjo/app/icon/upload.png" alt="">
+                                            </span>
+                                            <span class="file-label">
+                                                Primary file…
+                                            </span>
+                                            </span>
+							</label>
+						</div>
+					</div>
+				</div>
+				<div class="app-settings__timeouts">
+					<div class="field">
+						<div class="control">
+							<input class="input is-primary" id="timeout-input" type="number" min="15" placeholder="Timeout(default = 15 sec)">
+						</div>
+					</div>
+				</div>
+			</div>
+			<textarea id="user-text" class="textarea" placeholder="Your template:" rows="10"></textarea>
+			<div class="statistics">
+				<div class="statistics__added">
+					Was added: <span>0</span>
+				</div>
+				<div class="statistics__lost">
+					Remains to process: <span>0</span>
+				</div>
+			</div>
+			<div class="control button-start">
+				<button id="start-sending-button" class="button is-primary">Start</button>
+				<button id="pause-sending-button" class="button is-primary">Pause</button>
+				<button id="stop-sending-button" class="button is-primary">Stop</button>
+			</div>
+		</form>
+	</div>
+</div>
+<script src="js/jquery.js"></script>
+<script src="js/xlsx.js"></script>
+<script src="js/my_popup.js"></script>
+</body>
+</html>

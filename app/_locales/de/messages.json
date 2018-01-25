@@ -1,0 +1,128 @@
+{
+   "create_event": {
+      "message": "Ein Ereignis erstellen"
+   },
+   "description": {
+      "message": "WhatsApp™ Management-Tool für Unternehmen, um WhatsApp™ Nachrichten an Ihre Kunden zu senden"
+   },
+   "filtertag": {
+      "message": "Filter"
+   },
+   "intromsg": {
+      "message": "WhatsApp™ verbessert mit \u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a>"
+   },
+   "loggedtitle": {
+      "message": "Ihr gesicherter WhatsApp ™ Kanal"
+   },
+   "newchatphonelabel": {
+      "message": "Senden Sie eine Nachricht an eine beliebige Nummer"
+   },
+   "newchatphonelabelcolorfilter": {
+      "message": "Senden Sie eine Massenmeldung an jeden Kontakt mit diesem Filter"
+   },
+   "newchatphonelabelgroup": {
+      "message": "Senden Sie eine Massennachricht an jeden Kontakt in dieser Gruppe"
+   },
+   "notes_placeholder": {
+      "message": "Schreibe einen Kommentar:\n- Kontakt details\n- Verkaufsmöglichkeiten, etc."
+   },
+   "phoneinfo": {
+      "message": "Wie es funktioniert?"
+   },
+   "phoneinfo_title1": {
+      "message": "1) Senden Sie eine Nachricht an eine beliebige Nummer:"
+   },
+   "phoneinfo_title1_text1": {
+      "message": "\u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a> let you send a plain text message to any number, even if the number is not in your contact list."
+   },
+   "phoneinfo_title1_text2": {
+      "message": "Es ist eine großartige Funktion für jedes Unternehmen, eine schnelle Nachricht an Ihren Kunden zu senden."
+   },
+   "phoneinfo_title1_text3": {
+      "message": " - Example for a restaurant: \"we confirm your reservation for tomorrow\""
+   },
+   "phoneinfo_title1_text4": {
+      "message": " - Example for a car repair: \"Your car is ready to be picked-up\""
+   },
+   "phoneinfo_title1_text5": {
+      "message": " - Example for a dentist: \"we confirm your appointment for tomorrow\""
+   },
+   "phoneinfo_title1_text6": {
+      "message": "Sie können sogar Nachrichten an sich selbst senden und Whatsapp als ToDo-Liste oder Erinnerung verwenden."
+   },
+   "phoneinfo_title1_text7": {
+      "message": "Nachdem Sie eine erste Nachricht im Klartext gesendet haben, können Sie weiterhin Nachrichten mit allen Funktionalitäten von WhatsApp senden, wie Bild, Link usw."
+   },
+   "phoneinfo_title1_text8": {
+      "message": "VORSICHT: Senden Sie niemals eine Nachricht an Personen, die nicht wissen, wer Sie sind. Sie könnten Ihre Nachricht als \"spam\" kennzeichnen. Tritt dies mehrmals auf, kann WhatsApp Ihr Konto sperren. Maximal 25 Nachrichten"
+   },
+   "phoneinfo_title2": {
+      "message": "2) Zahlenformat:"
+   },
+   "phoneinfo_title2_text1": {
+      "message": "Um eine Nachricht an eine beliebige Nummer zu senden, schreiben Sie die Nummer und fügen Sie davor den Ländercode hinzu."
+   },
+   "phoneinfo_title2_text2": {
+      "message": "Example:"
+   },
+   "phoneinfo_title2_text3": {
+      "message": " - for the USA the country code is +1 > to send a message to the USA number 666000000 then you should write your number as: +1666000000"
+   },
+   "phoneinfo_title2_text4": {
+      "message": " - for Spain the country code is +34 > to send a message to the Spanish number 666000000 then you should write your number as: +34666000000"
+   },
+   "phoneinfo_title2_text5": {
+      "message": " - for Brasil the country code is +55 > to send a message to the Brazilian number 666000000 then you should write your number as: +55666000000"
+   },
+   "phoneinfo_title3": {
+      "message": "3) Senden Sie eine Nachricht an mehrere Nummern:"
+   },
+   "phoneinfo_title3_text1": {
+      "message": "Um eine Nachricht an mehrere Nummern zu senden, trennen Sie jede Zahl mit einem Koma (,)"
+   },
+   "phoneinfo_title3_text2": {
+      "message": "Example to send a same message to the following 3 Spanish numbers 666000000 666000001 and 666000000 , use the following format: +34666000000,+34666000001,+34666000002"
+   },
+   "phonelabellimit": {
+      "message": "Sie haben das Limit von 25 Empfängern überschritten. \u003Ca href='mailto:whatsdock@gmail.com'>Kontaktieren Sie uns\u003C/a>, um weitere Nachrichten gleichzeitig zu senden."
+   },
+   "placeholder": {
+      "message": "Schreibe dir etwas zu"
+   },
+   "reviewtitle": {
+      "message": "Bitte überprüfen Sie WhatsDock"
+   },
+   "share_email": {
+      "message": "\u003Ca href='mailto:?Subject=WhatsDock%3A%20ein%20großartiges%20Tool%20für%20WhatsApp&body=Hallo%2C%0D%0AIch%20benutze%20http://www.whatsdock.com%2C%20ein%20tolles%20kostenloses%20Tool%2C%20um%20WhatsApp%20auf%20Ihrem%20Computer%20zu%20verwenden.%0D%0AProbieren%20Sie%20es%20jetzt%2C' target='_blank'>Per E-Mail gesendet\u003C/a>"
+   },
+   "share_facebook": {
+      "message": "\u003Ca href='https://www.facebook.com/dialog/feed?app_id=2415035612055476&link=https://www.whatsdock.com' target='_blank'>Auf Facebook teilen\u003C/a>"
+   },
+   "share_twitter": {
+      "message": "\u003Ca href='https://twitter.com/intent/tweet?text=Ich%20benutze%20%23WhatsDock%2C%20ein%20tolles%20kostenloses%20Tool%2C%20um%20WhatsApp%20auf%20Ihrem%20Computer%20zu%20verwenden.%20%0D%0AVersuche%20https://www.whatsdock.com%20jetzt%21' target='_blank'>Auf Twitter teilen\u003C/a>"
+   },
+   "sharetitle": {
+      "message": "Wir brauchen Deine Unterstützung"
+   },
+   "sharetitlemsg": {
+      "message": "Mögen Sie WhatsDock?\u003Cbr/>\u003Cbr/>Danke, dass Sie bereit sind, das Tool mit Ihren Freunden zu teilen."
+   },
+   "suggestions": {
+      "message": "Wir benötigen Ihre Ideen, um WhatsDock zu verbessern, senden Sie Ihre Vorschläge an  \u003Ca href='mailto:whatsdock@gmail.com'>whatsdock@gmail.com\u003C/a>"
+   },
+   "templatesplaceholder": {
+      "message": "+ neue Vorlage"
+   },
+   "templatestitle": {
+      "message": "Ihre Vorlagen:"
+   },
+   "title": {
+      "message": "WhatsDock > WhatsApp for Business"
+   },
+   "unlogtitle": {
+      "message": "Melden Sie sich bei WhatsApp ™ an"
+   },
+   "welcome_dock": {
+      "message": "Drücken Sie um ein Dock zu öffnen"
+   }
+}

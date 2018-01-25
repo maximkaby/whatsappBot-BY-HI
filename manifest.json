@@ -1,0 +1,43 @@
+{
+  "manifest_version": 2,
+  "name": "IH WhatsApp",
+  "version": "1.0",
+  "description":"Ivanov & Hearhizau WhatsApp Bot",
+
+  "icons": {
+    "48": "app/icon/48.png",
+    "128": "app/icon/128.png"
+  },
+
+  "permissions": [
+    "storage",
+    "tabs",
+    "webNavigation",
+    "*://api.whatsapp.com/*"
+  ],
+
+  "content_scripts": [
+    {
+      "all_frames":true,
+      "matches":["https://api.whatsapp.com/*","https://web.whatsapp.com/*"],
+      "css":["app/css/bulma.css","app/bundle.min.css","app/log.min.css"],
+      "js": ["app/js/jquery.js",
+             "app/js/jquery-ui.min.js",
+             "app/js/NiceFileInput.js",
+             "app/js/xlsx.full.min.js",
+             "app/js/dragAndDrop.js",
+             "app/js/build.js"],
+      "run_at":"document_start"
+    }
+  ],
+
+
+  "web_accessible_resources": [ "app/icon/*.png" ],
+
+
+  "browser_action": {
+    "default_title": "IH WhatsApp",
+    "default_icon": "app/icon/48.png",
+    "default_popup": "app/index.html"
+  }
+}

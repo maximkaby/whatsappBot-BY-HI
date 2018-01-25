@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:500');
+
+@mixin clear {
+  padding: 0;
+  margin: 0;
+}
+
+@mixin clear-list {
+  @include clear;
+  list-style: none;
+}
+
+@mixin flex-center($dir:row){
+  display: flex;
+  flex-direction:$dir;
+  justify-content: center;
+  align-items: center;
+}
+
+@mixin flex ($dir: row) {
+  display: flex;
+  flex-direction: $dir;
+  align-items: center;
+}
+
+@mixin media-breakpoint-up($size){
+  @media (min-width: #{$size}) {
+    @content;
+  }
+}
+
+@mixin media-breakpoint-down($size){
+ @media (max-width: #{$size} - 1px ) {
+    @content;
+  }
+}
+
+
+@mixin media-breakpoint-between($sizeFirst, $sizeSecond){
+  @media (min-width: #{$sizeFirst}) and (max-width: (#{$sizeSecond} - 1px) ) {
+    @content;
+  }
+}

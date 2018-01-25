@@ -1,0 +1,128 @@
+{
+   "create_event": {
+      "message": "Create an event in your calendar"
+   },
+   "description": {
+      "message": "Manage your business on WhatsApp™ Web and send WhatsApp™ messages to your customers"
+   },
+   "filtertag": {
+      "message": "Filter"
+   },
+   "intromsg": {
+      "message": "WhatsApp™ version improved with  \u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a>"
+   },
+   "loggedtitle": {
+      "message": "Your secured WhatsApp™ channel"
+   },
+   "newchatphonelabel": {
+      "message": "Send a message to any number"
+   },
+   "newchatphonelabelcolorfilter": {
+      "message": "Send a mass message to each contact tagged below"
+   },
+   "newchatphonelabelgroup": {
+      "message": "Send a mass message to each contact of this group"
+   },
+   "notes_placeholder": {
+      "message": "Write a comment:\n- contact details\n- sales opportunities, etc."
+   },
+   "phoneinfo": {
+      "message": "How it works?"
+   },
+   "phoneinfo_title1": {
+      "message": "1) Send a message to any number:"
+   },
+   "phoneinfo_title1_text1": {
+      "message": "\u003Ca href='https://chrome.google.com/webstore/detail/whatsdock->-whatsapp-for/mbphanhcahfecdomhgfoclcklneeihcj' target='_blank' style='padding-left:5px;'>WhatsDock\u003C/a> let you send a plain text message to any number, even if the number is not in your contact list."
+   },
+   "phoneinfo_title1_text2": {
+      "message": "It is a great function for any business to send quick message to your customer. "
+   },
+   "phoneinfo_title1_text3": {
+      "message": " - Example for a restaurant: \"we confirm your reservation for tomorrow\""
+   },
+   "phoneinfo_title1_text4": {
+      "message": " - Example for a car repair: \"Your car is ready to be picked-up\""
+   },
+   "phoneinfo_title1_text5": {
+      "message": " - Example for a dentist: \"we confirm your appointment for tomorrow\""
+   },
+   "phoneinfo_title1_text6": {
+      "message": "You can even send messages to yourself, and use Whatsapp as a todo list or a reminder."
+   },
+   "phoneinfo_title1_text7": {
+      "message": "After you have send a first message in plain text, then you can continue sending messages using all the functionalities of WhatsApp, like picture, link, etc."
+   },
+   "phoneinfo_title1_text8": {
+      "message": "CAUTION: never send a message to people who don’t know who you are, they might mark your message as a \"spam\", and if it happens multiple times, WhatsApp might ban your account. Maximum 25 messages."
+   },
+   "phoneinfo_title2": {
+      "message": "2) Number Format:"
+   },
+   "phoneinfo_title2_text1": {
+      "message": "To send a message to any number, write the number and add, in front of it, the country code."
+   },
+   "phoneinfo_title2_text2": {
+      "message": "Example:"
+   },
+   "phoneinfo_title2_text3": {
+      "message": " - for the USA the country code is +1 > to send a message to the USA number 666000000 then you should write your number as: +1666000000"
+   },
+   "phoneinfo_title2_text4": {
+      "message": " - for Spain the country code is +34 > to send a message to the Spanish number 666000000 then you should write your number as: +34666000000"
+   },
+   "phoneinfo_title2_text5": {
+      "message": " - for Brasil the country code is +55 > to send a message to the Brazilian number 666000000 then you should write your number as: +55666000000"
+   },
+   "phoneinfo_title3": {
+      "message": "3) Send a message to multiple numbers:"
+   },
+   "phoneinfo_title3_text1": {
+      "message": "To send a same message to multiple number, separe each number with a coma (,)"
+   },
+   "phoneinfo_title3_text2": {
+      "message": "Example to send a same message to the following 3 Spanish numbers 666000000 666000001 and 666000000 , use the following format: +34666000000,+34666000001,+34666000002"
+   },
+   "phonelabellimit": {
+      "message": "You have passed the limit of 25 recipients. \u003Ca href='mailto:whatsdock@gmail.com'>Contact us\u003C/a> to send more messages at a time."
+   },
+   "placeholder": {
+      "message": "Write anything to yourself"
+   },
+   "reviewtitle": {
+      "message": "Please review WhatsDock"
+   },
+   "share_email": {
+      "message": "\u003Ca href='mailto:?Subject=Try%20WhatsDock%20for%20Chrome&body=Hi%2C%0D%0AI%20use%20https://www.whatsdock.com%2C%20an%20awesome%20free%20tool%20to%20use%20WhatsApp%20on%20your%20computer.%20%0D%0ATry%20it%20now%2C%0D%0ACheers' target='_blank'>Send Mail\u003C/a>"
+   },
+   "share_facebook": {
+      "message": "\u003Ca href='https://www.facebook.com/dialog/feed?app_id=2415035612055476&link=https://www.whatsdock.com' target='_blank'>Share on Facebook\u003C/a>"
+   },
+   "share_twitter": {
+      "message": "\u003Ca href='https://twitter.com/intent/tweet?text=I%20use%20%23WhatsDock%2C%20an%20awesome%20free%20tool%20to%20use%20WhatsApp%20on%20your%20computer.%20%0D%0ATry%20https://www.whatsdock.com%20now%21' target='_blank'>Share on Twitter\u003C/a>"
+   },
+   "sharetitle": {
+      "message": "We need your support"
+   },
+   "sharetitlemsg": {
+      "message": "Do you like WhatsDock?\u003Cbr/>\u003Cbr/>Please share your love, it means a lot to us."
+   },
+   "suggestions": {
+      "message": "We need your ideas to improve WhatsDock, send your suggestions to \u003Ca href='mailto:whatsdock@gmail.com'>whatsdock@gmail.com\u003C/a>"
+   },
+   "templatesplaceholder": {
+      "message": "+ create a new template"
+   },
+   "templatestitle": {
+      "message": "Your templates:"
+   },
+   "title": {
+      "message": "WhatsDock > WhatsApp for Business"
+   },
+   "unlogtitle": {
+      "message": "Login into WhatsApp™"
+   },
+   "welcome_dock": {
+      "message": "Click to open a Dock"
+   }
+}
